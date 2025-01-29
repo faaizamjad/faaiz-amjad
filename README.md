@@ -1,4 +1,4 @@
-
+![logo](https://github.com/faaizamjad/faaiz-amjad/blob/main/GitHub-Banner.png)
 <h1 align="center">Hi 👋, I'm Faaiz Amjad</h1>
 <h3 align="center">A passionate Data Analyst from Pakistan</h3>
 
